@@ -114,10 +114,15 @@ a{
     background-color: rgba(0, 0, 255, 0.222);
     
 }
+a:visited{
+    color: #ff0cd2;
+}
+a:hover{
+    color:black;
+}
 
 .instagram{
     margin-left: 20px ;
-    
     font-size: 30px;
     border: 2px solid #040ca3;
      padding : 2px 17px 8px;
@@ -127,7 +132,6 @@ a{
 .localização{
     margin-left: 10px ;
     font-size: 30px;
-    
     border: 2px solid #040ca3;
      padding : 2px 17px 8px;
     border-radius: 30px;
